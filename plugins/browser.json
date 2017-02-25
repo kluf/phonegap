@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "vova.kluf.myHelloWorldApp"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "vova.kluf.myHelloWorldApp"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "vova.kluf.myHelloWorldApp"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "vova.kluf.myHelloWorldApp"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "vova.kluf.myHelloWorldApp"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "vova.kluf.myHelloWorldApp"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "vova.kluf.myHelloWorldApp"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "vova.kluf.myHelloWorldApp"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "vova.kluf.myHelloWorldApp"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "vova.kluf.myHelloWorldApp"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "vova.kluf.myHelloWorldApp"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "vova.kluf.myHelloWorldApp"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "vova.kluf.myHelloWorldApp"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "vova.kluf.myHelloWorldApp"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "vova.kluf.myHelloWorldApp"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "vova.kluf.myHelloWorldApp"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "vova.kluf.myHelloWorldApp"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "vova.kluf.myHelloWorldApp"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "vova.kluf.myHelloWorldApp"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "vova.kluf.myHelloWorldApp"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "vova.kluf.myHelloWorldApp"
+        }
+    }
+}
